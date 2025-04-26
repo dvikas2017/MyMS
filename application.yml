@@ -1,5 +1,6 @@
-server:
-  name: testAPP
+spring:
+  application:
+    name: testAPP
 eureka:
   client:
     registerWithEureka: true
